@@ -1,0 +1,42 @@
+body {
+    background-color: #f4f4f9;
+}
+
+h2 {
+    text-align: center;
+}
+
+.gantt-block {
+    display: inline-block;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    margin: 2px;
+    width: 50px;
+    text-align: center;
+}
+
+.time {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f8f9fa;
+}
+
+td {
+    background-color: #ffffff;
+}
